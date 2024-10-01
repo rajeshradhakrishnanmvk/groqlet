@@ -1,10 +1,13 @@
 # groqlet
 A .net approach to use groq endpoint for LLM inference.
 
-# Read More
-[Blog](https://www.linkedin.com/feed/update/urn:li:ugcPost:7246751741319282688/)
+# Read More [Blog](https://www.linkedin.com/feed/update/urn:li:ugcPost:7246751741319282688/)
 
 # Output as of 10/01/2024
+
+user: What should I read after Carrie by Stephen King published in 1974?
+
+agent:
 
 Observation: I've retrieved a list of horror and suspense novels, including Stephen King's classics Salems Lot, The Shining, The Stand, Rage, and The Long Walk. These books showcase King's mastery of the genre and his ability to craft compelling stories that explore the darker aspects of human nature. 
 
@@ -60,9 +63,3 @@ If you have the answer, output it as the Answer.
 Answer: Based on your interest in philosophical and reflective texts, I recommend Book Title 1. It delves into existentialism and self-identity in a thought-provoking and engaging manner, which I believe aligns perfectly with your interests. 
 
 Now it's your turn:
-
-What should I read after Carrie by Stephen King published in 1974?
-
-
-
-
